@@ -18,7 +18,7 @@ Gather relevant bibliographic information and summarise using a format of your c
 :gutter: 2
 
 :::{grid-item-card} AI Assist 1<br>
-[Have AI Check If You Have All Basic Components for Your Sources](#ai-assist-1-have-ai-check-if-you-have-all-basic-components-for-yoursources)<br>
+[Have AI Check If You Have All Basic Components for Your Sources](#ai-assist-1-have-ai-check-if-you-have-all-basic-components-for-your-sources)<br>
 Use AI tools to verify that you have included all the necessary information for a summary.
 :::
 
@@ -53,14 +53,14 @@ Example formats include:
 - Visual tools (Miro, Powerpoint or Canva)
 - Annotated bibliography
 
-If you want to learn more about this standard practice, have a look at **__TULIB PAGE__**.
+If you want to learn more about this standard practice, have a look at the TULib page on "<a href="https://www.tudelft.nl/tulib/managing-your-information/summarising-and-synthesising-information" target=_blank>Summarising and Synthesising Information</a>".
 
 ## AI Assist 1: Have AI Check If You Have All Basic Components for Your Sources
 Before you start summarising you sources, it can be helpful to check if you have all the basic information available. Especially if you have a lot of unstructured notes, asking a general AI tool to check if the information is complete can be helpful.
 
 ```{admonition} Example Prompt
 :class: dropdown note
-You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing.
+You are an expert reviewer of scientific literature on [topic]. Check in the attached notes if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. Notes: [attach notes]
 ```
 
 ```{warning}
@@ -72,7 +72,7 @@ Once you have made sure that you have all the necessary components for the sourc
 
 ```{admonition} Example Prompt for a General AI Tool
 :class: dropdown note
-You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings.
+You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings. Notes: [attach file]
 ```
 
 Alternatively, you could use multimedia summaries. These can be helpful if you want to engage with your sources in a different manner. Google's NotebookLM is a local-input tool that provides a lot of ways to engage with sources. Based on the sources you put in, you can ask NotebookLM to provide you with a summary in text or in other formats, like a podcast or a video. You could use these summaries of your notes to further engage with your texts and guide your understanding.
@@ -93,7 +93,7 @@ Have a look at the relevant parts of <a href="https://www.youtube.com/watch?v=FO
 
 **Step 3.** Ask the general AI tool to provide a short summary of the article based on your notes. You can use the following example prompt (and adjust where necessary):
 
-_You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings._
+_You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings. Notes: [attach notes]_
 
 **Step 4.** Use NotebookLM to create a multimedia summary. Follow these steps:
 - Pick one format you would like to try out (video, audio, powerpoint).
@@ -114,8 +114,8 @@ Follow along with <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_
 
 | Task | Standard Practice | AI Assist | Tools | Example Prompts |
 |-|-|-|-|-|
-| Summarise sources | Make sure you have all necessary components | Use AI to check if you have included all the necessary information to start summarising | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert reviewer of scientific literature on [topic]. Check notes in the attached file if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. |
-|  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a textual summary | General tools, e.g. Copilot, ChatGPT, Claude| You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings.  |
+| Summarise sources | Make sure you have all necessary components | Use AI to check if you have included all the necessary information to start summarising | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert reviewer of scientific literature on [topic]. Check in the attached notes if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. Notes: [attach notes] |
+|  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a textual summary | General tools, e.g. Copilot, ChatGPT, Claude| You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings. Notes: [attach notes]  |
 |  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a multimedia summary | NotebookLM | Upload source to tool and generate audio or video summary.  |
 
 ## References
