@@ -59,7 +59,7 @@ To help you evaluate a tool you plan to use for a literature review, it can be h
 
 ```
 
-It is important to be transparent about your use of AI throughout your project. Publishers are increasingly asking for statements about the use of AI and researchers should check the policies of the chosen publication outlet. Make sure to document your use of AI throughout your project. For students at TU Delft this is dependent on the practice at your faculty / program or the instructions you received from your lecturer/supervisor. In chapter 5, you will find more information on how you can report about your AI use.
+It is important to be transparent about your use of AI throughout your project. Publishers are increasingly asking for statements about the use of AI and researchers should check the policies of the chosen publication outlet. Make sure to document your use of AI throughout your project. For students at TU Delft this is dependent on the practice at your faculty / program or the instructions you received from your lecturer/supervisor. In the chapter [Reporting about Your Use of AI](part2/5d-report-ai-use), you will find more information on this topic.
 
 ## Summary
 
