@@ -47,7 +47,7 @@ Learn how 'traditional' search strategies such as keyword searching and snowball
 A common technique to find additional papers is looking at the citations of relevant articles to find related information ('snowballing'). Sources that cite or are cited by the article you already found may also contain relevant information for your research project. Learn more about basic snowballing techniques in this video:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"Alternative Ways of Searching" by TU Delft Library Education Support is licensed CC-BY
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/c0880efca2de46a28c7f28e21fb6ebf31d" target=_blank>Alternative Ways of Searching</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ## AI Assist 1: Literature Mapping
 
