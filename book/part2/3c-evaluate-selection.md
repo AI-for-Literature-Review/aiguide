@@ -70,7 +70,7 @@ There are AI tools that actively learn what articles are relevant to your resear
 Watch an explainer of one of the most commonly used tools for this process, ASreview, to learn more about how this process works:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k-a2SCq-LtA?si=2FUXki8CjHgeiC6k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"ASReview LAB explained" by ASReview TV is licensed CC-BY
+"<a href="https://www.youtube.com/watch?v=k-a2SCq-LtA" target=_blank>ASReview LAB explained</a>" by <a href="https://www.youtube.com/@ASReview" target=_blank>ASReview TV</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ```{admonition} Guided Activity: Try out ASReview
 :class: dropdown tip
