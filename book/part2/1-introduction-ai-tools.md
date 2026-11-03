@@ -29,11 +29,11 @@ Depending on which task you need to perform for a literature review, you might n
 
 ### Local-input tools
 
-Some AI tools (both general and academic tools) allow you to work on specific documents you upload to a server or host on your computer. These tools are called **local-input tools**. Examples include NotebookLM, ChatPDF and ASReview. Local-input tools work well when you have specific sources you want to study, and can summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
+Some AI tools (both general and academic tools) allow you to work on specific documents you upload to a server or host on your computer. These tools are called **local-input tools**. Examples include Gemini Notebook, ChatPDF and ASReview. Local-input tools work well when you have specific sources you want to study, and can summarise specific information and extract the details. You can also upload specific documents to a general tool for analysis, but because they draw from their extensive knowledge base, the output the model provides can be less specific. In a tool that is designed to work with the sources you put in, you often have more control over the output.
 
 ```{admonition} Uploading Documents to AI Tools
 :class: warning
-Be mindful of the information you upload to AI tools: it is not allowed to upload sensitive or copyrighted materials into AI tools connected to servers. This is because it is unclear where the information you upload will end up. Things like uploading an academic article to NotebookLM to summarise or create a podcast, having ChatGPT analyse data you gathered in interviews or sharing someone's preliminary research ideas with Claude are generally not allowed, unless you have written permission from the authors or participants. Alternatively, you could consider using tools that run locally on your computer, like ASreview or Ollama.
+Be mindful of the information you upload to AI tools: it is not allowed to upload sensitive or copyrighted materials into AI tools connected to servers. This is because it is unclear where the information you upload will end up. Things like uploading an academic article to Gemini Notebook to summarise or create a podcast, having ChatGPT analyse data you gathered in interviews or sharing someone's preliminary research ideas with Claude are generally not allowed, unless you have written permission from the authors or participants. Alternatively, you could consider using tools that run locally on your computer, like ASreview or Ollama.
 ```
 
 ### Deep Reasoning Models
@@ -68,7 +68,7 @@ It is important to be transparent about your use of AI throughout your project. 
 | Trained on / search open web | Trained on / search academic sources (often from Semantic Scholar) | Work with data provided by you |
 | General questions | Research questions | Specific questions related to specific sources |
 | Sources provided sometimes fake | Sources provided are real | Sources used are real
-| Examples:<br><br>• Copilot<br>• ChatGPT<br>• Claude | Examples:<br><br>• Elicit<br>• Consensus<br>• ResearchRabbit | Examples:<br><br>• NotebookLM<br> • ASReview<br>• ChatPDF |
+| Examples:<br><br>• Copilot<br>• ChatGPT<br>• Claude | Examples:<br><br>• Elicit<br>• Consensus<br>• ResearchRabbit | Examples:<br><br>• Gemini Notebook<br> • ASReview<br>• ChatPDF |
 
 ## References
 
