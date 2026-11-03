@@ -1,6 +1,6 @@
 # Developing Your Research Questions
 
-After exploring your topic, you have to determine what information you need to find in the scientific literature. In other words, you have to define your research question for your literature review. 
+After exploring your topic, you have to determine what information you need to find in the scientific literature. In other words, you have to define your research question for your literature review. <br>
 Note: when we refer to the term "research question", we mean the specific question to be researched within the literature review, not the research question of an entire research project. Sometimes the research question of the literature review overlaps with the research question of a research project (for example, when the literature review is the final output), sometimes the literature is only part of the project (for example as a means to find knowledge gaps, or to decide what specific methods or design approaches should be used within a project).
 
 ::::{grid}
