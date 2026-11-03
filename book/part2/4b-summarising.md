@@ -68,36 +68,37 @@ Be careful and don't upload sensitive of copyrighted information to AI tools. Ac
 ```
 
 ## AI Assist 2: Have AI Organise Your Notes into a Preferred Summary Format
-Once you have made sure that you have all the necessary components for the sources you want to analyse, you can use AI to support you to summarise your sources in a helpful format. For this you could use a tool like NotebookLM or a general AI tool. You can use these summaries as overviews so you can remember what the sources are about, to dive deeper in the text and check your understanding, or you can build on the summary further, adding more of your own thoughts and analyses to get ready to synthesise your sources.
+Once you have made sure that you have all the necessary components for the sources you want to analyse, you can use AI to support you to summarise your sources in a helpful format. For this you could use a tool like Gemini Notebook or a general AI tool. You can use these summaries as overviews so you can remember what the sources are about, to dive deeper in the text and check your understanding, or you can build on the summary further, adding more of your own thoughts and analyses to get ready to synthesise your sources.
 
 ```{admonition} Example Prompt for a General AI Tool
 :class: dropdown note
 You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings. Notes: [attach file]
 ```
 
-Alternatively, you could use multimedia summaries. These can be helpful if you want to engage with your sources in a different manner. Google's NotebookLM is a local-input tool that provides a lot of ways to engage with sources. Based on the sources you put in, you can ask NotebookLM to provide you with a summary in text or in other formats, like a podcast or a video. You could use these summaries of your notes to further engage with your texts and guide your understanding.
+Alternatively, you could use multimedia summaries. These can be helpful if you want to engage with your sources in a different manner. Gemini Notebook is a local-input tool that provides a lot of ways to engage with sources. Based on the sources you put in, you can ask Gemini Notebook to provide you with a summary in text or in other formats, like a podcast or a video. You could use these summaries of your notes to further engage with your texts and guide your understanding.
 
-```{admonition} Example Prompt for NotebookLM
+```{admonition} Example Prompt for Gemini Notebook
 :class: dropdown note 
 Have a look at the relevant parts of <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_blank>this video by Teacher's Tech</a> if you want to learn how to:
 - Generate an <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q&t=538s" target="_blank">audio summary</a> 
 - Generate a <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q&t=668s" target="_blank">video summary</a>
+Note: The videos refer to NotebookLM, which is the old name for Gemini Notebook, but the steps followed in the videos are the same.
 ```
 
 ```{admonition} Guided Activity: Turn Your Notes into Summaries
 :class: dropdown tip
 
-**Step 1.** Work with NotebookLM and one general AI tool, for example Copilot, ChatGPT or Claude.
+**Step 1.** Work with Gemini Notebook and one general AI tool, for example Copilot, ChatGPT or Claude.
 
-**Step 2.** Choose relevant sources from your reading list and upload your notes on these sources into NotebookLM and the other tool of your choice.  
+**Step 2.** Choose relevant sources from your reading list and upload your notes on these sources into Gemini Notebook and the other tool of your choice.  
 
 **Step 3.** Ask the general AI tool to provide a short summary of the article based on your notes. You can use the following example prompt (and adjust where necessary):
 
 _You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings. Notes: [attach notes]_
 
-**Step 4.** Use NotebookLM to create a multimedia summary. Follow these steps:
+**Step 4.** Use Gemini Notebook to create a multimedia summary. Follow these steps:
 - Pick one format you would like to try out (video, audio, powerpoint).
-- Upload your notes into NotebookLM and ask it to create a multimedia summary.<br>
+- Upload your notes into Gemini Notebook and ask it to create a multimedia summary.<br>
 Follow along with <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_blank>the video by Teacher's Tech</a> to:  
 - Generate an <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q&t=538s" target="_blank">audio summary</a> 
 - Generate a <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q&t=668s" target="_blank">video summary</a>
@@ -116,7 +117,7 @@ Follow along with <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_
 |-|-|-|-|-|
 | Summarise sources | Make sure you have all necessary components | Use AI to check if you have included all the necessary information to start summarising | General tools, e.g. Copilot, ChatGPT, Claude | You are an expert reviewer of scientific literature on [topic]. Check in the attached notes if the following components are included for each source: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, implications of the findings. List the sources where the information in a buletted list, describing in 1-2 sentences what information is missing. Notes: [attach notes] |
 |  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a textual summary | General tools, e.g. Copilot, ChatGPT, Claude| You are an expert scientific writer with an expertise for writing effective summaries. Based on the attached notes generate a short textual summary of 200-300 words, including the following: bibliographical information, topic or research question, methods used, main results, connection to previous studies, limitations of the study, and implications of the findings. Notes: [attach notes]  |
-|  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a multimedia summary | NotebookLM | Upload source to tool and generate audio or video summary.  |
+|  | Choose a summary format and add the information from your notes | Ask AI to turn your notes into a multimedia summary | Gemini Notebook | Upload source to tool and generate audio or video summary.  |
 
 ## References
 - Stapleton, A (2025, January 2). _The NEW NotebookLM Features Researchers Are Raving About_ [Video]. <a href="https://www.youtube.com/watch?v=w7PA9kSJLlo" target="_blank">https://www.youtube.com/watch?v=w7PA9kSJLlo</a>
