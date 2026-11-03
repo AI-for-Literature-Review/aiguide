@@ -82,6 +82,7 @@ Alternatively, you could use multimedia summaries. These can be helpful if you w
 Have a look at the relevant parts of <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q" target=_blank>this video by Teacher's Tech</a> if you want to learn how to:
 - Generate an <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q&t=538s" target="_blank">audio summary</a> 
 - Generate a <a href="https://www.youtube.com/watch?v=FOs4RDTC52Q&t=668s" target="_blank">video summary</a>
+
 Note: The videos refer to NotebookLM, which is the old name for Gemini Notebook, but the steps followed in the videos are the same.
 ```
 
