@@ -32,7 +32,7 @@ Train an AI model to dynamically change the order of your results as you select 
 A common way to select academic literature is by doing title-abstract reading. This strategy works well because you can quickly scan whether an article is relevant for your research. Watch this video to learn more about the practice:
 
 <iframe width="560" height="315" src="https://collegerama.tudelft.nl/Mediasite/Play/ed24f15b2a8d4f43bbe62a4573f341531d" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-"Selecting Resources" by TU Delft Library Education Support is licensed CC-BY
+"<a href="https://collegerama.tudelft.nl/Mediasite/Play/ed24f15b2a8d4f43bbe62a4573f341531d" target=_blank>Selecting Resources</a>" by <a href="https://www.tudelft.nl/library/" target=_blank>TU Delft Library Education Support</a> is licensed under <a href=https://creativecommons.org/licenses/by/4.0/ target=_blank>CC-BY</a><br><br>
 
 ## AI Assist 1: Sorting Results of Initial Search
 
