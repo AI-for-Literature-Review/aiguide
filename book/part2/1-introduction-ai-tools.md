@@ -11,6 +11,8 @@ During the literature review process, there are multiple steps where you will wo
 3. **Analyse**: Analyse and synthesise findings from selected sources.
 4. **Write**: Write your text and cite sources.
 
+There are different types of literature reviews, but in general they follow the same steps as listed above. All literature review types will also come with a specific question to be researched. Sometimes the research question of the literature review overlaps with the research question of a research project (for example, when the literature review is the final output), sometimes the literature is only part of the project (for example as a means to find knowledge gaps, or to decide what specific methods or design approaches should be used within a project). Throughout the book, when we refer to the term "research question", we mean the specific question to be researched within the literature review.
+
 For each of these steps, AI tools can support the process. To be able to effectively use these tools, it is important to understand two types of GenAI tools: 
 - General tools
 - Academic search tools
