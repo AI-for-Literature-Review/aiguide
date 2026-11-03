@@ -70,7 +70,7 @@ Notes: [attach notes].
 
 ```{admonition} Guided Activity: Draft a Literature Matrix Based on Your Notes
 :class: dropdown note
-**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude. Or you could work with NotebookLM.
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude. Or you could work with Gemini Notebook.
 
 **Step 2.** Select the notes, summaries and themes you would like the AI to put into a literature matrix.
 
@@ -96,7 +96,7 @@ conclusion: [attach or paste conclusions]. [notes/synthesis matrix]: [attach not
 
 ```{admonition} Guided Activity: Review Your Initial Conclusions
 :class: dropdown note
-**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude. Or you could work with NotebookLM.
+**Step 1.** Choose a general AI tool, for example Copilot, ChatGPT or Claude. Or you could work with Gemini Notebook.
 
 **Step 2.** Select the draft conclusion you would like feedback on and your accompanying literature matrix or research notes.
 
