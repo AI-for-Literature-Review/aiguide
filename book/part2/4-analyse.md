@@ -8,7 +8,7 @@ Common activities during this phase of the literature review include:
 
 - [Reading](4a-reading.md)
 
-- [Summarsing](4b-summarising.md)
+- [Summarising](4b-summarising.md)
 
 - [Synthesising Findings](4c-synthesising.md)
 
