@@ -56,4 +56,4 @@ Tools used:
 - Microsoft. (2025). _Copilot_ (August 2025 version) [Large language model]. <a href="https://copilot.microsoft.com" target="_blank">https://copilot.microsoft.com</a>
 
 ### Last Updated
-Please be aware that the tools and approaches discussed in this guide are subject to change due to the quickly evolving nature of AI. This edition of the book was launched on September 4, 2025.
+Please be aware that the tools and approaches discussed in this guide are subject to change due to the quickly evolving nature of AI. This edition of the book was launched on November 9, 2026.
