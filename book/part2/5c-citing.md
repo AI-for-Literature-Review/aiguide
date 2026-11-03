@@ -16,8 +16,8 @@ Use a reference manager to format your references correctly
 :gutter: 1
 
 :::{grid-item-card} Help <br>
-[Why You Should Not Let AI 'Improve' Your Reference List](#why-you-should-not-let-ai-'improve'-your-reference-list)<br>
-Ask AI to check the formatting of your reference list
+[Why You Should Not Let AI 'Improve' Your Reference List](#why-you-should-not-let-ai-improve-your-reference-list)<br>
+Asking AI to help with the formatting of your reference list
 :::
 
 ::::
@@ -41,7 +41,7 @@ Carefully check if your reference list includes **all** sources that you refer t
 
 Although it may be tempting to ask a GenAI tool to format your reference list, you should **not** do that. There are ample examples in which students as well as professional researchers used AI and ended up with <a href="https://delta.tudelft.nl/en/article/number-of-ghost-references-in-scientific-articles-growing-rapidly" target="_blank">'ghost references'</a> (non-existing sources) in their reference list. So do **not** ask AI to find additional sources for you, do **not** ask it to create a reference description for a particular source you found, do **not** ask it to improve your reference list, do **not** even ask it to put the sources in the correct order. All of these actions oftentimes do more harm than good.
 
-It may not be the most exiting part of your research project, but you should compile a correct reference list yourself. If you want to work more efficiently, you can use a reference manager. If you are working in Overleaf, you should make sure to define your reference style correctly and add all sources correctly to your bibtex, and then you will get a correct reference list.
+It may not be the most exciting part of your research project, but you should compile a correct reference list yourself. If you want to work more efficiently, you can use a reference manager. If you are working in Overleaf, you should make sure to define your reference style correctly and add all sources correctly to your bibtex, and then you will get a correct reference list.
 
 ## References
 
